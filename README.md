@@ -88,12 +88,12 @@ My journey started with building **Embedded Systems** projects using **Arduino**
 ## ⚡ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoa4068&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoa4068&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAshraf711&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAshraf711&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoa4068&theme=radical&hide_border=true&background=0D1117" height="160" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAshraf711&theme=radical&hide_border=true&background=0D1117" height="160" alt="Streak Stats" />
 </div>
 
 <br/>

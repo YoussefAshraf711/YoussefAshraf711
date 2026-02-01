@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Youssef%20Ashraf&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%26%20Data%20Engineer&descAlign=50&descAlignY=60&descSize=20" alt="Header" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Engineering+Trainee+@+DEPI;AI+%26+Embedded+Systems+Enthusiast;Fedora+Linux+Power+User;Open+Source+Contributor;C%2B%2B+%26+Python+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Engineering+Trainee+@+DEPI;AI+%26+Embedded+Systems+Enthusiast;Fedora+Linux+User;Open+Source+Contributor;Python+%26+C%2B%2B+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,37 +22,39 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science Undergraduate (Class of 2028)** at **Nahda University** and currently a **Data Engineering Trainee** at the **Digital Egypt Pioneers Initiative (DEPI)**.
+I am a **Computer Science Student (Class of 2028)** at **Nahda University**, driven by a deep curiosity about how software interacts with hardware. 
 
-My passion lies at the intersection of **Artificial Intelligence** and **Embedded Systems**. I started my journey building hardware projects with **Arduino** and **C++**, which evolved into a deep interest in **Linux System Administration** and **Data Engineering**.
+My journey started with building **Embedded Systems** projects using **Arduino** and **C++**, which naturally evolved into a passion for **Linux** and **System Administration**. Currently, I am expanding my horizons into **Data Engineering** as a trainee with the **Digital Egypt Pioneers Initiative (DEPI)**.
 
-- 🔭 **Current Focus:** Developing structured **AI Roadmaps** and mastering **Big Data** technologies.
-- 🌱 **I’m currently learning:** Advanced **Deep Learning** concepts and **Real-Time Operating Systems (RTOS)**.
-- 🐧 **Linux Distro:** I am a **Fedora Workstation** expert and advocate for Open Source.
-- 👯 **Community:** Active Technical Member at **IEEE Nahda Student Branch**.
+- 🔭 **Current Focus:** Building intelligent, hardware-integrated software solutions and designing **AI Roadmaps**.
+- 🌱 **I’m currently learning:** Advanced **Deep Learning** (CNNs) and **Model Optimization** on NVIDIA platforms.
+- 🐧 **Linux Distro:** I am a **Fedora Workstation** expert.
+- 💡 **Community:** I believe in the power of community education and actively contribute to Open Source.
 
 <br/>
 
 ## 🛠️ Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>Languages</b></td>
-    <td align="center" width="25%"><b>AI & Data</b></td>
-    <td align="center" width="25%"><b>Embedded & Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,sql" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,tensorflow,anaconda" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=arduino,linux,fedora,git,docker,vscode" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%"><b>Languages</b></td>
+      <td align="center" width="33%"><b>AI & Data</b></td>
+      <td align="center" width="33%"><b>Embedded & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,sql" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,tensorflow" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=arduino,linux,fedora,git,docker,vscode" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -62,21 +64,21 @@ My passion lies at the intersection of **Artificial Intelligence** and **Embedde
   <tr>
     <td width="50%">
       <h3 align="center">🧠 AI & Data Science Roadmap</h3>
-      <p align="center">A comprehensive open-source learning path covering Math, ML, Deep Learning, and MLOps engineering.</p>
+      <p align="center">A structured, open-source learning path covering Math, ML, Deep Learning, and MLOps engineering.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🐧 Linux Educational Guides</h3>
-      <p align="center">Authored "Linux for Beginners" (Fedora focus) and bilingual Computer Science resource guides.</p>
+      <h3 align="center">🐧 Linux & CS Guides</h3>
+      <p align="center">Comprehensive guides for System Administration (Fedora) and bilingual Computer Science resources.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🍲 Global Cuisine Predictor</h3>
-      <p align="center">Machine Learning tool that predicts international dishes based on ingredients using Scikit-Learn.</p>
+      <p align="center">ML tool predicting international dishes based on large recipe databases using Scikit-Learn.</p>
     </td>
     <td width="50%">
       <h3 align="center">🌲 Interactive Decision-Tree Game</h3>
-      <p align="center">A C++ console application utilizing binary decision trees with adaptive learning algorithms.</p>
+      <p align="center">Console application utilizing smart binary decision trees with adaptive learning algorithms.</p>
     </td>
   </tr>
 </table>

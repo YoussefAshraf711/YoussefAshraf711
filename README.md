@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Youssef%20Ashraf&fontSize=80&fontAlign=50&fontAlignY=28&desc=Data%20Engineer%20%26%20CS%20Student&descAlign=50&descAlignY=55&descSize=25&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Youssef%20Ashraf&fontSize=80&fontAlign=50&fontAlignY=28&desc=Data%20Engineer%20and%20CS%20Student&descAlign=50&descAlignY=55&descSize=25&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Engineering+Trainee+at+DEPI;AI+and+Embedded+Systems+Enthusiast;Fedora+Linux+User;Open+Source+Contributor;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
@@ -27,23 +27,18 @@ My journey started with building **Embedded Systems** projects using **Arduino**
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YoussefAshraf711&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-
----
-
 ## 🛠️ Technical Arsenal
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,c,bash,sql,arduino,linux&perline=7)
-<br/>
-![My Tools](https://skillicons.dev/icons?i=sklearn,pandas,numpy,tensorflow,git,docker,vscode&perline=7)
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,cpp,c,bash,sql&perline=5)
+
+### AI & Data Engineering
+![AI Data](https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy,anaconda&perline=5)
+
+### Systems & Tools
+![Tools](https://skillicons.dev/icons?i=linux,fedora,arduino,docker,git,vscode&perline=6)
 
 </div>
 
@@ -65,9 +60,11 @@ My journey started with building **Embedded Systems** projects using **Arduino**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefAshraf711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefAshraf711&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAshraf711&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAshraf711&layout=compact&theme=radical&cache_seconds=86400)
+
+![Streak Stats](https://streak-stats.demolab.com?user=YoussefAshraf711&theme=radical&hide_border=true)
 
 </div>
 

@@ -1,12 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Youssef%20Ashraf&fontSize=70&fontAlign=50&desc=Data%20Engineer%20and%20CS%20Student&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Youssef%20Ashraf&fontSize=80&fontAlign=50&fontAlignY=28&desc=Data%20Engineer%20%26%20CS%20Student&descAlign=50&descAlignY=55&descSize=25&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Engineering+Trainee+at+DEPI;AI+and+Embedded+Systems+Enthusiast;Fedora+Linux+User;Open+Source+Contributor;Python+and+Cpp+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Engineering+Trainee+at+DEPI;AI+and+Embedded+Systems+Enthusiast;Fedora+Linux+User;Open+Source+Contributor;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-ashraf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoa4068@gmail.com)
@@ -29,13 +27,23 @@ My journey started with building **Embedded Systems** projects using **Arduino**
 
 ---
 
-## 🛠️ Technical Skills
+## 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YoussefAshraf711&theme=radical&no-frame=true&margin-w=15&no-bg=true" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-| Languages | AI & Data | Embedded & Tools |
-| :---: | :---: | :---: |
-| ![Python](https://skillicons.dev/icons?i=python,cpp,c,bash,sql) | ![Data](https://skillicons.dev/icons?i=sklearn,pandas,numpy,tensorflow) | ![Tools](https://skillicons.dev/icons?i=arduino,linux,fedora,git,docker,vscode) |
+![My Skills](https://skillicons.dev/icons?i=python,cpp,c,bash,sql,arduino,linux&perline=7)
+<br/>
+![My Tools](https://skillicons.dev/icons?i=sklearn,pandas,numpy,tensorflow,git,docker,vscode&perline=7)
 
 </div>
 
@@ -53,14 +61,20 @@ My journey started with building **Embedded Systems** projects using **Arduino**
 
 ---
 
+## ⚡ GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefAshraf711&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAshraf711&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
 <br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YoussefAshraf711&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
-  
   <br/> <br/>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJydW15bXJ3aW94bm15bXJ3aW94bm15bXJ3aW94YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LqvQ7zJ7hASrFv8e20/giphy.gif" width="60">
-  <br/>
-  <i>Let's build the future with Code!</i>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Footer Animation">
 </div>
